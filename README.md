@@ -1,4 +1,4 @@
 # Olá, Mundo!
  Primeiro repositório versionado
 
-Teste de ropositório
+Teste de repositório
